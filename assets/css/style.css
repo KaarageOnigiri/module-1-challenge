@@ -119,6 +119,7 @@ p {
     font-size: 36px;
 }
 
+/* changed it to footer (semantic) */
 footer {
     padding: 30px;
     clear: both;

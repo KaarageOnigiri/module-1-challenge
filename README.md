@@ -5,7 +5,7 @@ This is Week 1 Challenge by the Ohio State University's bootcamp. Currently, we 
 This is a website made for social media marketing purposes.
 
 ## Pictures
-E:\Villy\bootcamp\github\module-1-challenge\assets\images\digital-marketing-meeting.jpg
+ <img src="./assets/images/digital-marketing-meeting.jpg" alt="Digital Marketing Meeting" />
 
 ## Link to the website
 https://kaarageonigiri.github.io/module-1-challenge/#online-reputation-management
